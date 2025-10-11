@@ -1,9 +1,9 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Olá, eu sou Mickaelly!
-👩🏻‍💻 Engenheira de Software em andamento br/>
+👩🏻‍💻 Engenheira de Software em andamento <br/>
 👩🏻‍🎓 Estudo Ciências da computação pelo IFCE<br/>
-💭 Atualmente estou aprendendo POO em JAVA
+💭 Atualmente estou aprendendo POO em JAVA <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Mickaellysilva&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
