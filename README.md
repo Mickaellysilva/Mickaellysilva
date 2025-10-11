@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Olá, eu sou Mickaelly!
-👩🏻‍💻 Engenheira de Software em andamento <br/>
+👩🏻‍💻 Carreira de engenheira de Software em andamento <br/>
 👩🏻‍🎓 Estudo Ciências da computação pelo IFCE<br/>
 💭 Atualmente estou aprendendo POO em JAVA <br/>
 
