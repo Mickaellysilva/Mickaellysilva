@@ -3,6 +3,11 @@
 <h1 align="center">Olá :)</h1>
 <h3 align="center">Carreira em Engenharia de Software em Andamento</h3>
 
+<p align="left">
+Além da parte técnica, valorizo organização, responsabilidade e clareza na comunicação. 
+Acredito que tecnologia vai além do código: envolve pessoas, propósito e compromisso com a qualidade.
+</p>
+
 <img align="right" alt="Coding" width="400"
 src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
 
