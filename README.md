@@ -8,6 +8,10 @@ Estudante de Engenharia de Software • Desenvolvimento Web • Aprendizado cont
 
 ### 🌱 Sobre mim
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 - 🎓 Estudante de **Engenharia de Software / Ciência da Computação**
 - 💻 Interesse em **Desenvolvimento Web** e **Engenharia de Software**
 - 📚 Atualmente aprendendo:
@@ -17,7 +21,15 @@ Estudante de Engenharia de Software • Desenvolvimento Web • Aprendizado cont
 - 🤝 Valorizo **responsabilidade, organização e comunicação clara**
 - ✨ Acredito que tecnologia é sobre **pessoas, propósito e impacto**
 
----
+</td>
+<td width="40%" align="center">
+
+<img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="280"/>
+
+</td>
+</tr>
+</table>
+
 
 ### 🛠️ Tecnologias
 
