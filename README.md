@@ -3,15 +3,19 @@
 <h1 align="center">Olá :)</h1>
 <h3 align="center">Carreira em Engenharia de Software em Andamento</h3>
 
-<p align="left">
-Além da parte técnica, valorizo organização, responsabilidade e clareza na comunicação. 
-Acredito que tecnologia vai além do código: envolve pessoas, propósito e compromisso com a qualidade.
+### Sobre mim
+
+* 🎓 Estudante de Ciência da Computação
+* 💻 Carreira em Engenharia de Software em andamento
+* 📚 Interesse em código limpo, boas práticas e organização de sistemas
+* ⚛️ Aprendendo React e aprofundando conhecimentos em desenvolvimento web
+* 🧠 Estudando lógica de programação e estruturas de dados
+* 🤝 Valorizo organização, responsabilidade e comunicação clara
+
+<p align="center">
+  <img width="350"
+  src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
 </p>
-
-<img align="right" alt="Coding" width="400"
-src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
-
-<br clear="both"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mickaellysilva&label=Profile%20views&color=0e75b6&style=flat"
@@ -84,20 +88,14 @@ src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programmi
 
 </p>
 
-<p>
-  <img align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=mickaellysilva&show_icons=true&locale=en&layout=compact"
-  alt="mickaellysilva" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mickaellysilva&layout=compact" />
 </p>
 
-<p>
-  <img align="center"
-  src="https://github-readme-stats.vercel.app/api?username=mickaellysilva&show_icons=true&locale=en"
-  alt="mickaellysilva" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mickaellysilva&show_icons=true" />
 </p>
 
-<p>
-  <img align="center"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mickaellysilva"
-  alt="mickaellysilva" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickaellysilva" />
 </p>
