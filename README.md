@@ -41,14 +41,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
 </p>
 
+<hr/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mickaellysilva&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mickaellysilva&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mickaellysilva&show_icons=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickaellysilva&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickaellysilva"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mickaellysilva&layout=compact&theme=dark"/>
 </p>
