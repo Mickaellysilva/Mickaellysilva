@@ -19,15 +19,6 @@
   </a>
 </p>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mickaellysilva" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a>
-  <a href="https://instagram.com/me.mickaelly" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-  </a>
-</p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
@@ -43,14 +34,19 @@
 
 <hr/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mickaellysilva&show_icons=true&theme=dark"/>
-</p>
+### 🚀 Objetivos atuais
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickaellysilva&theme=dark"/>
-</p>
+- Construir projetos práticos e bem documentados
+- Evoluir como desenvolvedora Front-end
+- Aprender mais sobre arquitetura e qualidade de software
+- Contribuir com projetos que gerem impacto real
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mickaellysilva&layout=compact&theme=dark"/>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/mickaellysilva" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>
+  <a href="https://instagram.com/me.mickaelly" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+  </a>
 </p>
