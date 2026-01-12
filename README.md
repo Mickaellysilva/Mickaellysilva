@@ -43,11 +43,13 @@
 
 ## 📊 Estatísticas
 
+<img height="160em" src="https://streak-stats.demolab.com?user=MickaellySilva&theme=tokyonight"/>
+
+
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MickaellySilva&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=MickaellySilva&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaellySilva&layout=compact&theme=tokyonight"/>
 </div>
-
 
 
 ## 📫 Vamos conversar?
