@@ -5,8 +5,8 @@
 
 ### Sobre mim
 
-| Sobre mim | |
-|----------|---|
+| | |
+|---|---|
 | 🎓 Estudante de Ciência da Computação<br>💻 Carreira em Engenharia de Software em andamento<br>📚 Interesse em código limpo, boas práticas e organização de sistemas<br>⚛️ Aprendendo React e aprofundando conhecimentos em desenvolvimento web<br>🧠 Estudando lógica de programação e estruturas de dados<br>🤝 Valorizo organização, responsabilidade e comunicação clara | <img width="300" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/> |
 
 <p align="left">
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<h3 align="left">Idiomas e Ferramentas:</h3>
+<h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
