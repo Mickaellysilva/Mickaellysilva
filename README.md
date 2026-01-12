@@ -53,7 +53,10 @@
 
 ---
 
+---
+
 ### 🐍 Minhas contribuições
 
-![Snake animation](https://github.com/mickaellysilva/mickaellysilva/blob/output/github-contribution-grid-snake-dark.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mickaellysilva/Mickaellysilva/output/snake.svg" />
+</p>
