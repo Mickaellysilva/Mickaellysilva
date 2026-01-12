@@ -12,7 +12,7 @@ Estudante de Engenharia de Software • Desenvolvimento Web • Aprendizado cont
 <tr>
 <td width="60%" valign="top">
 
-- 🎓 Estudante de **Engenharia de Software / Ciência da Computação**
+- 🎓 Estudante de **Ciência da Computação**
 - 💻 Interesse em **Desenvolvimento Web** e **Engenharia de Software**
 - 📚 Atualmente aprendendo:
   - ⚛️ React
