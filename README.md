@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8B5CF6&size=22&center=true&vCenter=true&width=500&lines=Apaixonada+por+tecnologia;Front-end+em+evolução;Fé%2C+disciplina+e+aprendizado;Construindo+um+repertório+sólido" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8B5CF6&size=22&center=true&vCenter=true&width=500&lines=Apaixonada+por+tecnologia;Front-end+em+evolução;disciplina+e+aprendizado;Construindo+um+repertório+sólido" />
 </p>
 
 ---
