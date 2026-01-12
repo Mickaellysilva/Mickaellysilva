@@ -5,16 +5,9 @@
 
 ### Sobre mim
 
-| | |
-|---|---|
-| 
-* 🎓 Estudante de Ciência da Computação  
-* 💻 Carreira em Engenharia de Software em andamento  
-* 📚 Interesse em código limpo, boas práticas e organização de sistemas  
-* ⚛️ Aprendendo React e aprofundando conhecimentos em desenvolvimento web  
-* 🧠 Estudando lógica de programação e estruturas de dados  
-* 🤝 Valorizo organização, responsabilidade e comunicação clara  
-| <p align="center"><img width="300" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/></p> |
+| Sobre mim | |
+|----------|---|
+| 🎓 Estudante de Ciência da Computação<br>💻 Carreira em Engenharia de Software em andamento<br>📚 Interesse em código limpo, boas práticas e organização de sistemas<br>⚛️ Aprendendo React e aprofundando conhecimentos em desenvolvimento web<br>🧠 Estudando lógica de programação e estruturas de dados<br>🤝 Valorizo organização, responsabilidade e comunicação clara | <img width="300" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/> |
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mickaellysilva&label=Profile%20views&color=0e75b6&style=flat"/>
