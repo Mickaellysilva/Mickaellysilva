@@ -1,62 +1,63 @@
-<!-- Level 3: Add custom code -->
+<h1 align="center">Olá, eu sou a Mickaelly 👋</h1>
 
-# 👋 Olá! :)
+<p align="center">
+  Desenvolvedora em formação • Ciência da Computação • Front-end
+</p>
 
-<h3 align="left">Habilidades</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8B5CF6&size=22&center=true&vCenter=true&width=500&lines=Apaixonada+por+tecnologia;Front-end+em+evolução;Fé%2C+disciplina+e+aprendizado;Construindo+um+repertório+sólido" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo" />
+---
+
+## 🌷 Sobre mim
+
+🎓 Estudante de **Ciência da Computação**  
+💻 Interesse em **Desenvolvimento Web e Engenharia de Software**  
+✨ Gosto de unir **tecnologia, estética, organização e propósito**  
+🌱 Em constante aprendizado  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="SQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</div>
+
+---
+
+## 📌 Atualmente estudando
+
+- React (componentização e boas práticas)
+- Desenvolvimento Full-Stack
+- Engenharia de Software
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MickaellySilva&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaellySilva&layout=compact&theme=tokyonight"/>
 </div>
 
 
-<h3 align="left">Contatos</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:mickaellysrs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mickaellys/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/me.mickaelly/?next=%2F)
+## 📫 Vamos conversar?
 
+- 💼 LinkedIn:(https://www.linkedin.com/in/mickaellys/)
+- ✉️ Email: mickaellysrs@gmail.com
+- 🌐 Portfólio (em construção ✨)
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-<picture align="center">
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Mickaellysilva/Mickaellysilva/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Mickaellysilva/Mickaellysilva/output/github-contribution-grid-snake.svg"
-  >
-  <img 
-    align="center" 
-    alt="github contribution grid snake animation" 
-    src="https://raw.githubusercontent.com/Mickaellysilva/Mickaellysilva/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <em>"Tudo o que fizerem, façam de todo o coração." ✨</em>
+</p>
