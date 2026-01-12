@@ -3,7 +3,7 @@
 # 👋 Olá, eu sou Mickaelly!
 👩🏻‍💻 Carreira de Engenheira de Software em andamento <br/>
 👩🏻‍🎓 Estudo Ciências da computação pelo IFCE<br/>
-💭 Atualmente estou aprendendo POO utilizando a linguagem JAVA <br/>
+💭 Atualmente estou aprendendo React<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Mickaellysilva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
