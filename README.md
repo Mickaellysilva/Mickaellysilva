@@ -50,3 +50,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
   </a>
 </p>
+
+---
+
+### 🐍 Minhas contribuições
+
+![Snake animation](https://github.com/mickaellysilva/mickaellysilva/blob/output/github-contribution-grid-snake-dark.svg)
+
