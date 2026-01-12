@@ -30,6 +30,5 @@
   <img 
     align="center" 
     alt="github contribution grid snake animation" 
-    src="https://raw.githubusercontent.com/Mickaellysilva/Mickaellysilva/output/github-contribution-grid-snake.svg"
-  >
+    src="https://raw.githubusercontent.com/Mickaellysilva/Mickaellysilva/output/github-contribution-grid-snake.svg">
 </picture>
