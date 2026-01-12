@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Mickaelly 👋</h1>
 
 <p align="center">
-Estudante de Engenharia de Software • Desenvolvimento Web • Aprendizado contínuo
+Estudante de Ciências da Computação • Desenvolvimento Web • Aprendizado contínuo
 </p>
 
 ---
