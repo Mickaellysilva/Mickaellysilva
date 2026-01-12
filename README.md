@@ -11,6 +11,8 @@ Acredito que tecnologia vai além do código: envolve pessoas, propósito e comp
 <img align="right" alt="Coding" width="400"
 src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
 
+<br clear="both"/>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mickaellysilva&label=Profile%20views&color=0e75b6&style=flat"
   alt="mickaellysilva" />
