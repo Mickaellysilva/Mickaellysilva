@@ -15,7 +15,7 @@ Estudante de Ciências da Computação • Desenvolvimento Web • Aprendizado c
 - 🎓 Estudante de **Ciência da Computação**
 - 💻 Interesse em **Desenvolvimento Web** e **Engenharia de Software**
 - 📚 Atualmente aprendendo:
-  - ⚛️ React
+  - ⚛️Javascript / React
   - 🧠 Estruturas de Dados
   - 🧩 Boas práticas e organização de código
 - 🤝 Valorizo **responsabilidade, organização e comunicação clara**
