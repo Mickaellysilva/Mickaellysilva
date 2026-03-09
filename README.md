@@ -17,7 +17,6 @@ Estudante de Ciências da Computação • Desenvolvimento Web • Aprendizado c
 - 📚 Atualmente aprendendo:
   - Node.js
   - 🧩 Boas práticas e organização de código
-- 🤝 Valorizo **responsabilidade, organização e comunicação clara**
 - ✨ Acredito que tecnologia é sobre **pessoas, propósito e impacto**
 
 </td>
