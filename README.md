@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Mickaelly 👋</h1>
+]<h1 align="center">Olá, eu sou a Mickaelly 👋</h1>
 
 <p align="center">
 Estudante de Ciências da Computação • Desenvolvimento Web • Aprendizado contínuo
@@ -6,18 +6,22 @@ Estudante de Ciências da Computação • Desenvolvimento Web • Aprendizado c
 
 ---
 
-###🌱 Sobre mim
+### 🌱 Sobre mim
 
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<table> <tr> <td width="60%" valign="top">
-🎓 Estudante de Ciência da Computação, em constante evolução
-💻 Apaixonado por Desenvolvimento Web e Engenharia de Software
-🚀 Focado em criar soluções que unem tecnologia e propósito
-📚 Atualmente aprofundando conhecimentos em:
-⚙️ Node.js
-🧩 Boas práticas, arquitetura e organização de código
-✨ Acredito que a tecnologia vai além do código — ela conecta pessoas, ideias e transforma realidades
-</td> </tr> </table>
+🎓 Estudante de Ciência da Computação, em constante evolução  
+💻 Apaixonada por Desenvolvimento Web e Engenharia de Software  
+🚀 Focada em criar soluções que unem tecnologia e propósito  
+📚 Atualmente aprofundando conhecimentos em:  
+⚙️ Node.js  
+🧩 Boas práticas, arquitetura e organização de código  
+✨ Acredito que a tecnologia vai além do código — ela conecta pessoas, ideias e transforma realidades  
+
+</td>
+
 <td width="40%" align="center">
 
 <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="280"/>
@@ -26,6 +30,7 @@ Estudante de Ciências da Computação • Desenvolvimento Web • Aprendizado c
 </tr>
 </table>
 
+---
 
 ### 🛠️ Tecnologias
 
@@ -44,10 +49,10 @@ Estudante de Ciências da Computação • Desenvolvimento Web • Aprendizado c
 
 ### 🚀 Em evolução
 
-- Construindo projetos práticos
-- Melhorando lógica e estrutura de código
-- Aprofundando conhecimentos em Front-end
-- Buscando crescer como desenvolvedora de forma consistente
+- Construindo projetos práticos  
+- Melhorando lógica e estrutura de código  
+- Aprofundando conhecimentos em Front-end  
+- Buscando crescer como desenvolvedora de forma consistente  
 
 ---
 
