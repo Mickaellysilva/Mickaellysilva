@@ -6,20 +6,18 @@ Estudante de Ciências da Computação • Desenvolvimento Web • Aprendizado c
 
 ---
 
-### 🌱 Sobre mim
+###🌱 Sobre mim
 
-<table>
-<tr>
-<td width="60%" valign="top">
 
-- 🎓 Estudante de **Ciência da Computação**
-- 💻 Interesse em **Desenvolvimento Web** e **Engenharia de Software**
-- 📚 Atualmente aprendendo:
-  - Node.js
-  - 🧩 Boas práticas e organização de código
-- ✨ Acredito que tecnologia é sobre **pessoas, propósito e impacto**
-
-</td>
+<table> <tr> <td width="60%" valign="top">
+🎓 Estudante de Ciência da Computação, em constante evolução
+💻 Apaixonado por Desenvolvimento Web e Engenharia de Software
+🚀 Focado em criar soluções que unem tecnologia e propósito
+📚 Atualmente aprofundando conhecimentos em:
+⚙️ Node.js
+🧩 Boas práticas, arquitetura e organização de código
+✨ Acredito que a tecnologia vai além do código — ela conecta pessoas, ideias e transforma realidades
+</td> </tr> </table>
 <td width="40%" align="center">
 
 <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="280"/>
