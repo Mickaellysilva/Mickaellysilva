@@ -16,9 +16,8 @@ Estudante de Ciências da Computação • Desenvolvimento Web • Aprendizado c
 💻 Apaixonada por Desenvolvimento Web e Engenharia de Software  
 🚀 Focada em criar soluções que unem tecnologia e propósito  
 📚 Atualmente aprofundando conhecimentos em:  
-⚙️ Node.js  
-🧩 Boas práticas, arquitetura e organização de código  
-✨ Acredito que a tecnologia vai além do código — ela conecta pessoas, ideias e transforma realidades  
+- Node.js  
+- Boas práticas, arquitetura e organização de código  
 
 </td>
 
