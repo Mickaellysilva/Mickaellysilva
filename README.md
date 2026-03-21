@@ -1,7 +1,7 @@
-]<h1 align="center">Olá, eu sou a Mickaelly 👋</h1>
+<h1 align="center">Olá, eu sou a Mickaelly 👋</h1>
 
 <p align="center">
-Estudante de Ciências da Computação • Desenvolvimento Web • Aprendizado contínuo
+  Estudante de Ciência da Computação • Desenvolvimento Web • Aprendizado Contínuo
 </p>
 
 ---
@@ -12,18 +12,19 @@ Estudante de Ciências da Computação • Desenvolvimento Web • Aprendizado c
 <tr>
 <td width="60%" valign="top">
 
-🎓 Estudante de Ciência da Computação, em constante evolução  
-💻 Apaixonada por Desenvolvimento Web e Engenharia de Software  
-🚀 Focada em criar soluções que unem tecnologia e propósito  
+🎓 Estudante de **Ciência da Computação**, com foco em desenvolvimento e evolução contínua  
+💻 Interesse em **Desenvolvimento Web** e **Engenharia de Software**  
+🚀 Comprometida em criar soluções que unem **tecnologia, propósito e impacto**  
 📚 Atualmente aprofundando conhecimentos em:  
-- Node.js  
-- Boas práticas, arquitetura e organização de código  
+&nbsp;&nbsp;&nbsp;&nbsp;• ⚙️ **Node.js**  
+&nbsp;&nbsp;&nbsp;&nbsp;• 🧩 **Boas práticas, arquitetura e organização de código**  
+✨ Acredito que a tecnologia vai além do código, sendo uma ferramenta para conectar pessoas e transformar realidades  
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="280"/>
+<img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="260"/>
 
 </td>
 </tr>
@@ -46,12 +47,12 @@ Estudante de Ciências da Computação • Desenvolvimento Web • Aprendizado c
 
 ---
 
-### 🚀 Em evolução
+### 🚀 Desenvolvimento Contínuo
 
-- Construindo projetos práticos  
-- Melhorando lógica e estrutura de código  
-- Aprofundando conhecimentos em Front-end  
-- Buscando crescer como desenvolvedora de forma consistente  
+- Desenvolvimento de projetos práticos para consolidação de conhecimento  
+- Aprimoramento de lógica de programação e estrutura de código  
+- Aprofundamento em tecnologias de **Front-end**  
+- Evolução constante como desenvolvedora  
 
 ---
 
@@ -68,7 +69,7 @@ Estudante de Ciências da Computação • Desenvolvimento Web • Aprendizado c
 
 ---
 
-### 🐍 Minhas contribuições
+### 🐍 Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mickaellysilva/mickaellysilva/output/snake.svg" />
