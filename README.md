@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/62441951/103444738-f9361600-4c6e-11eb-8980-fe517906d4e2.gif" width="450" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/development.gif" width="450" style="border-radius: 12px;" />
 </div>
 
 ---
