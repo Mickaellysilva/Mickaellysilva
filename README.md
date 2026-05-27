@@ -8,12 +8,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="400" style="border-radius: 12px;" />
+  <img src="https://media.tenor.com/images/3f822971cc7be926b0db6ff4cf37ff8d/tenor.gif" width="450" style="border-radius: 12px;" />
 </div>
 
 ---
 
-### 🌱 Sobre Mim
+### 🌱 Sobre Me
 
 🎓 Estudante de **Ciência da Computação**, focada em evolução contínua e desenvolvimento web.
 
