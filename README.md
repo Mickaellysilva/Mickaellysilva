@@ -1,4 +1,4 @@
-<div align="center">
+]<div align="center">
   <h1>Olá, eu sou a Mickaelly 👋</h1>
   <p><b>Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software</b></p>
 
@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/development.gif" width="450" style="border-radius: 12px;" />
+  <img src="https://media.giphy.com/media/3ov9k1173G0pUe0Sg8/giphy.gif" width="450" style="border-radius: 12px;" />
 </div>
 
 ---
