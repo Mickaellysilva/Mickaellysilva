@@ -7,12 +7,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3ov9k1173G0pUe0Sg8/giphy.gif" width="450" style="border-radius: 12px;" />
-</div>
-
----
-
 ### 🌱 Sobre Mim
 
 🎓 Estudante de **Ciência da Computação**, focada em evolução contínua e desenvolvimento web.
