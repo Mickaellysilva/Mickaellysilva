@@ -2,7 +2,7 @@
   <h1>Olá, eu sou a Mickaelly 👋</h1>
   <p>Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software</p>
 
-  <img src="https://visitor-badge.laeri.mit.edu/visit.svg?page_id=Mickaellysilva.Mickaellysilva&color=7aa2f7&style=flat-square" alt="Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=Mickaellysilva&color=7aa2f7&style=flat-square" alt="Contador de Visitas" />
 </div>
 
 <br/>
