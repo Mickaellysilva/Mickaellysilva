@@ -73,9 +73,13 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mickaellysilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickaellysilva&layout=compact&theme=tokyonight&border_radius=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mickaellysilva&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Mickaellysilva&theme=tokyonight&border_radius=10" />
 </p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickaellysilva&layout=compact&theme=tokyonight&border_radius=10" />
+</p> 
 
 ---
 
