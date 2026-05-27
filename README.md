@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5bmd0N3VwY3N4bHphb29wYWNid294ZXF5N3Y0NTFidm95YWhhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="450" style="border-radius: 12px;" />
+  <img src="https://user-images.githubusercontent.com/62441951/103444738-f9361600-4c6e-11eb-8980-fe517906d4e2.gif" width="450" style="border-radius: 12px;" />
 </div>
 
 ---
