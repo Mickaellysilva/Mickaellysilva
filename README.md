@@ -1,4 +1,4 @@
-]<div align="center">
+<div align="center">
   <h1>Olá, eu sou a Mickaelly 👋</h1>
   <p><b>Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software</b></p>
 
