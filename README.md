@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Mickaelly 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação • Desenvolvimento Web • Aprendizado Contínuo
+  Estudante de Ciência da Computação • Desenvolvimento Web 
 </p>
 
 ---
@@ -38,22 +38,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
----
-
-### 🚀 Desenvolvimento Contínuo
-
-- Desenvolvimento de projetos práticos para consolidação de conhecimento  
-- Aprimoramento de lógica de programação e estrutura de código  
-- Aprofundamento em tecnologias de **Front-end**  
-- Evolução constante como desenvolvedora  
 
 ---
 
