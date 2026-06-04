@@ -7,7 +7,7 @@
     <td valign="middle" align="left">
       <h1>Olá, eu sou a Mickaelly 👋</h1>
       <p><b>Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software</b></p>
-        <br/>  <br/>
+        <br/> 
       ⚙️ Atualmente aprofundando conhecimentos em **Java e Engenharia de Software**.
       ⚡ *Acredito que a tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades.*
        <br/>  <br/>
@@ -18,7 +18,6 @@
 </table>
 
 <br/>
----
 
 ### 🛠️ Tecnologias & Ferramentas
 
