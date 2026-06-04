@@ -1,14 +1,16 @@
 <div width="100%">
   <img src="https://i.pinimg.com/736x/d4/99/3b/d4993b11af1f6b6968b1d56d3995a48b.jpg" width="280" align="left" style="border-radius: 15px; margin-right: 30px; margin-bottom: 20px;" alt="Foto de Mickaelly" />
 
-  <h1>Olá, eu sou a Mickaelly 👋</h1>
-  <p><b>Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software</b></p>
-  <br/>
-  <p><kbd>⚙️ <b>Atualmente aprofundando conhecimentos em Java e Engenharia de Software.</b></kbd></p>
-  <br/>
-  <p>⚡ <i>Acredito que a tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades.</i></p>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Mickaellysilva&color=9b5de5&style=flat-square" alt="Contador de Visitas" />
+  <div>
+    <h1>Olá, eu sou a Mickaelly 👋</h1>
+    <p><b>Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software</b></p>
+    <br/>
+    <p><kbd>⚙️ <b>Atualmente aprofundando conhecimentos em Java e Engenharia de Software.</b></kbd></p>
+    <br/>
+    <p>⚡ <i>Acredito que a tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades.</i></p>
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=Mickaellysilva&color=9b5de5&style=flat-square" alt="Contador de Visitas" />
+  </div>
 </div>
 
 <br clear="all" />
@@ -16,7 +18,7 @@
 
 ---
 
-### Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-23272F?style=for-the-badge&logo=html5&logoColor=9b5de5" alt="HTML5"/>
@@ -35,7 +37,7 @@
 
 ---
 
-### Meu Desempenho no GitHub
+### 📊 Meu Desempenho no GitHub
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mickaellysilva&show_icons=true&theme=gotham&icon_color=9b5de5&text_color=ffffff&title_color=9b5de5&border_radius=10" />
@@ -45,7 +47,7 @@
 
 ---
 
-### Projetos em Destaque
+### 🚀 Projetos em Destaque
 
 * 📌 **Nome do Projeto 1** — *Breve descrição elegante sobre o que este projeto faz e o problema que ele resolve.* `React` `Node.js` `MySQL` • [Acessar Repositório ↗](https://github.com/Mickaellysilva?tab=repositories)
 
@@ -53,7 +55,7 @@
 
 ---
 
-### Vamos nos conectar?
+### 🔗 Vamos nos conectar?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mickaellys/" target="_blank">
@@ -66,7 +68,7 @@
 
 ---
 
-### Histórico de Contribuições
+### 🐍 Histórico de Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mickaellysilva/Mickaellysilva/output/snake.svg" width="100%" />
