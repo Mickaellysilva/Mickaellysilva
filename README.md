@@ -25,6 +25,10 @@
   </tr>
 </table>
 
+<br/>
+
+---
+
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
