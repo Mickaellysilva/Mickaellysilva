@@ -7,17 +7,17 @@
     <td valign="middle" align="left">
       <h1>Olá, eu sou a Mickaelly 👋</h1>
       <p><b>Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software</b></p>
-        <br/> 
-       > [!NOTE]
-       > ⚙️ Atualmente aprofundando conhecimentos em Java e Engenharia de Software.
-      ⚡ Acredito que a tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades.
-       <br/>  <br/>
-            <img src="https://komarev.com/ghpvc/?username=Mickaellysilva&color=9b5de5&style=flat-square" alt="Contador de Visitas" />
+      
+      <blockquote style="border-left: 4px solid #9b5de5; padding-left: 10px; margin-left: 0;">
+        ⚙️ <b>Atualmente aprofundando conhecimentos em Java e Engenharia de Software.</b>
+      </blockquote>
+
+      <p>⚡ <i>Acredito que a tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades.</i></p>
       <br/>
+      <img src="https://komarev.com/ghpvc/?username=Mickaellysilva&color=9b5de5&style=flat-square" alt="Contador de Visitas" />
     </td>
   </tr>
 </table>
-
 <br/>
 
 ### 🛠️ Tecnologias & Ferramentas
