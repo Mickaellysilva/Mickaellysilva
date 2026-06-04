@@ -1,23 +1,21 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td valign="top" align="center" width="280" style="border: none; padding: 0;">
-      <img src="https://i.pinimg.com/736x/d4/99/3b/d4993b11af1f6b6968b1d56d3995a48b.jpg" width="280" style="border-radius: 15px;" alt="Foto de Mickaelly" />
-    </td>
-    <td width="40" style="border: none; padding: 0;"></td>
-    <td valign="middle" align="left" style="border: none; padding: 0;">
-      <h1 style="border: none; margin-top: 0;">Olá, eu sou a Mickaelly 👋</h1>
-      <p><b>Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software</b></p>
-      <br/>
-      <p><kbd>⚙️ <b>Atualmente aprofundando conhecimentos em Java e Engenharia de Software.</b></kbd></p>
-      <br/>
-      <p>⚡ <i>Acredito que a tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades.</i></p>
-      <br/>
-      <img src="https://komarev.com/ghpvc/?username=Mickaellysilva&color=9b5de5&style=flat-square" alt="Contador de Visitas" />
-    </td>
-  </tr>
-</table>
+<img src="https://i.pinimg.com/736x/d4/99/3b/d4993b11af1f6b6968b1d56d3995a48b.jpg" width="280" align="left" style="border-radius: 15px; margin-right: 25px; margin-bottom: 20px;" alt="Foto de Mickaelly" />
+
+# Olá, eu sou a Mickaelly 👋
+**Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software**
 
 <br/>
+
+<kbd>⚙️ <b>Atualmente aprofundando conhecimentos em Java e Engenharia de Software.</b></kbd>
+
+<br/><br/>
+
+⚡ *Acredito que a tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades.*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mickaellysilva&color=9b5de5&style=flat-square" alt="Contador de Visitas" />
+
+<br clear="all" />
 
 ---
 
@@ -62,4 +60,17 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mickaellys/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-23272F?style=for-the-badge&logo=linkedin&logoColor=9
+    <img src="https://img.shields.io/badge/LinkedIn-23272F?style=for-the-badge&logo=linkedin&logoColor=9b5de5" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="https://www.instagram.com/mickaellyy.s/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-23272F?style=for-the-badge&logo=instagram&logoColor=9b5de5" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+### 🐍 Histórico de Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mickaellysilva/Mickaellysilva/output/snake.svg" width="100%" />
+</p>
