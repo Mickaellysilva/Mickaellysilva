@@ -1,5 +1,6 @@
 
 # Olá, eu sou a Mickaelly 👋
+<img src="https://i.pinimg.com/736x/d4/99/3b/d4993b11af1f6b6968b1d56d3995a48b.jpg" width="280" align="left" style="border-radius: 15px; margin-right: 25px; margin-bottom: 20px;" alt="Foto de Mickaelly" />
 **Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software**
 
 <br/>
