@@ -8,9 +8,15 @@
       <h1>Olá, eu sou a Mickaelly 👋</h1>
       <p><b>Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software</b></p>
       
-      <blockquote style="border-left: 4px solid #9b5de5; padding-left: 10px; margin-left: 0;">
-        ⚙️ <b>Atualmente aprofundando conhecimentos em Java e Engenharia de Software.</b>
-      </blockquote>
+      <br/>
+      
+      <table>
+        <tr>
+          <td>⚙️ <b>Atualmente aprofundando conhecimentos em Java e Engenharia de Software.</b></td>
+        </tr>
+      </table>
+
+      <br/>
 
       <p>⚡ <i>Acredito que a tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades.</i></p>
       <br/>
@@ -18,7 +24,6 @@
     </td>
   </tr>
 </table>
-<br/>
 
 ### 🛠️ Tecnologias & Ferramentas
 
