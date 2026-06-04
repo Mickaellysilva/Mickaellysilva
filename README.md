@@ -13,6 +13,7 @@
 <br clear="all" />
 <br/>
 
+---
 
 ### Tecnologias & Ferramentas
 
@@ -42,7 +43,7 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 * 📌 **Nome do Projeto 1** — *Breve descrição elegante sobre o que este projeto faz e o problema que ele resolve.* `React` `Node.js` `MySQL` • [Acessar Repositório ↗](https://github.com/Mickaellysilva?tab=repositories)
 
@@ -50,7 +51,7 @@
 
 ---
 
-### 🔗 Vamos nos conectar?
+### Vamos nos conectar?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mickaellys/" target="_blank">
