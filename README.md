@@ -1,14 +1,17 @@
-<div align="center">
-  <h1>Olá, eu sou a Mickaelly 👋</h1>
-  <p><b>Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software</b></p>
-
-  <br/>
-  <img src="https://i.pinimg.com/736x/d4/99/3b/d4993b11af1f6b6968b1d56d3995a48b.jpg" width="250" style="border-radius: 50%;" alt="Foto de Mickaelly" />
-  <br/>
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Mickaellysilva&color=9b5de5&style=flat-square" alt="Contador de Visitas" />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" align="center" width="300">
+      <img src="https://i.pinimg.com/736x/d4/99/3b/d4993b11af1f6b6968b1d56d3995a48b.jpg" width="280" style="border-radius: 15px;" alt="Foto de Mickaelly" />
+    </td>
+    <td width="30"></td>
+    <td valign="middle" align="left">
+      <h1>Olá, eu sou a Mickaelly 👋</h1>
+      <p><b>Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software</b></p>
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=Mickaellysilva&color=9b5de5&style=flat-square" alt="Contador de Visitas" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
