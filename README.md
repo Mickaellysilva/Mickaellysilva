@@ -9,22 +9,14 @@
       <p><b>Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de Software</b></p>
       <br/>
       <img src="https://komarev.com/ghpvc/?username=Mickaellysilva&color=9b5de5&style=flat-square" alt="Contador de Visitas" />
+      <br/> 
+      ⚙️ Atualmente aprofundando conhecimentos em **Java e Engenharia de Software**.
+      > ⚡ *Acredito que a tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades.*
     </td>
   </tr>
 </table>
 
 <br/>
-
-### 🌱 Sobre Mim
-
-🎓 Estudante de **Ciência da Computação**, focada em evolução contínua e desenvolvimento web.
-
-🚀 Comprometida em criar soluções digitais que unem **tecnologia, propósito e alto impacto**.
-
-⚙️ Atualmente aprofundando conhecimentos em **Node.js, Ecossistema Backend e Arquitetura de Software**.
-
-> ⚡ *Acredito que a tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades.*
-
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
