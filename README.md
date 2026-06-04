@@ -8,15 +8,13 @@
   <br/>
   <p>⚡ <i>Acredito que a tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades.</i></p>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Mickaellysilva&color=9b5de5&style=flat-square" alt="Contador de Visitas" />
 </div>
 
 <br clear="all" />
 <br/>
 
----
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-23272F?style=for-the-badge&logo=html5&logoColor=9b5de5" alt="HTML5"/>
@@ -33,9 +31,8 @@
   <img src="https://img.shields.io/badge/Git-23272F?style=for-the-badge&logo=git&logoColor=9b5de5" alt="Git"/>
 </div>
 
----
 
-### 📊 Meu Desempenho no GitHub
+### Meu Desempenho no GitHub
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mickaellysilva&show_icons=true&theme=gotham&icon_color=9b5de5&text_color=ffffff&title_color=9b5de5&border_radius=10" />
