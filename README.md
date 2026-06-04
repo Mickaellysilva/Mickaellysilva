@@ -48,9 +48,9 @@ Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de So
 
 ### 🚀 Projetos em Destaque
 
-* 📌 **Nome do Projeto 1** — *Breve descrição elegante sobre o que este projeto faz e o problema que ele resolve.* `React` `Node.js` `MySQL` • [Acessar Repositório ↗](https://github.com/Mickaellysilva?tab=repositories)
+* 📌 **Sistema de controle de vacinação ** — *Uma aplicação orientada a objetos que permite gerenciar todo o processo relacionado à vacinação: desde o cadastro das pessoas até o registro das aplicações e o acompanhamento do esquema vacinal.* `RJava` • [Acessar Repositório ↗](https://github.com/Mickaellysilva/SistemaDeControleDeVacinacao)
 
-* 📌 **Nome do Projeto 2** — *Breve descrição elegante sobre o que este projeto faz e o problema que ele resolve.* `PHP` `Bootstrap` `MySQL` • [Acessar Repositório ↗](https://github.com/Mickaellysilva?tab=repositories)
+* 📌 **Mini projeto biblioteca ** — *Uma aplicação orientada a objetos que permite gerenciar livros de uma biblioteca* `Java` • [Acessar Repositório ↗](https://github.com/Mickaellysilva/Mini-projeto-Biblioteca)
 
 ---
 
