@@ -45,15 +45,25 @@ Estudante de Ciência da Computação • Desenvolvimento Web & Engenharia de So
 </p>
 
 ---
-
 ### 🚀 Projetos em Destaque
 
-* 📌 **Sistema de controle de vacinação ** — *Uma aplicação orientada a objetos que permite gerenciar todo o processo relacionado à vacinação: desde o cadastro das pessoas até o registro das aplicações e o acompanhamento do esquema vacinal.* `RJava` • [Acessar Repositório ↗](https://github.com/Mickaellysilva/SistemaDeControleDeVacinacao)
+<br/>
 
-* 📌 **Mini projeto biblioteca ** — *Uma aplicação orientada a objetos que permite gerenciar livros de uma biblioteca* `Java` • [Acessar Repositório ↗](https://github.com/Mickaellysilva/Mini-projeto-Biblioteca)
+### 📌 <kbd>Sistema de Controle de Vacinação</kbd>
+> *Uma aplicação orientada a objetos que permite gerenciar todo o processo relacionado à vacinação: desde o cadastro das pessoas até o registro das aplicações e o acompanhamento do esquema vacinal.*
+>
+> ![Java](https://img.shields.io/badge/Java-23272F?style=flat-square&logo=openjdk&logoColor=9b5de5) &nbsp;&nbsp; [**Acessar Repositório ↗**](https://github.com/Mickaellysilva/SistemaDeControleDeVacinacao)
+
+<br/>
+
+### 📌 <kbd>Mini Projeto Biblioteca</kbd>
+> *Uma aplicação orientada a objetos que permite gerenciar livros de uma biblioteca.*
+>
+> ![Java](https://img.shields.io/badge/Java-23272F?style=flat-square&logo=openjdk&logoColor=9b5de5) &nbsp;&nbsp; [**Acessar Repositório ↗**](https://github.com/Mickaellysilva/Mini-projeto-Biblioteca)
+
+<br/>
 
 ---
-
 ### 🔗 Vamos nos conectar?
 
 <p align="left">
