@@ -13,7 +13,6 @@
 <br clear="all" />
 <br/>
 
----
 
 ### Tecnologias & Ferramentas
 
