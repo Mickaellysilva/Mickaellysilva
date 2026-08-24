@@ -191,7 +191,7 @@ Descrição profissional da posição.
 
 ---
 -->
-## 🜸 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -201,7 +201,7 @@ Descrição profissional da posição.
 
 ---
 
-## 🜸 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -211,7 +211,7 @@ Descrição profissional da posição.
 
 ---
 
-## 🜸 Current Focus
+## Current Focus
 
 ```yaml
 learning:
