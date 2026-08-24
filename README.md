@@ -15,13 +15,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-mickaellysilva.github.io-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B2E)](https://mickaellysilva.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B2E)]([SEU_LINK_LINKEDIN])
 [![Email](https://img.shields.io/badge/Email-mickaellycosta.dev-4C1D95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B2E)](mailto:[SEU_EMAIL])
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B2E)]([SEU_LINK_GITHUB])
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B2E)](https://github.com/Mickaellysilva)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=[SEU_USUARIO]&color=6D28D9&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/[SEU_USUARIO]?style=flat-square&color=6D28D9&labelColor=1E1B2E)
-![Stars](https://img.shields.io/github/stars/[SEU_USUARIO]?style=flat-square&color=6D28D9&labelColor=1E1B2E)
+![Profile Views](https://komarev.com/ghpvc/?username=Mickaellysilva&color=6D28D9&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Mickaellysilva?style=flat-square&color=6D28D9&labelColor=1E1B2E)
+![Stars](https://img.shields.io/github/stars/Mickaellysilva?style=flat-square&color=6D28D9&labelColor=1E1B2E)
 
 </div>
 
@@ -181,12 +181,12 @@ Descrição profissional da posição.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=radical&hide_border=true&bg_color=1E1B2E&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=[SEU_USUARIO]&theme=radical&hide_border=true&background=1E1B2E&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mickaellysilva&show_icons=true&theme=radical&hide_border=true&bg_color=1E1B2E&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Mickaellysilva&theme=radical&hide_border=true&background=1E1B2E&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&theme=radical&hide_border=true&bg_color=1E1B2E&title_color=A78BFA&text_color=E9D5FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickaellysilva&layout=compact&theme=radical&hide_border=true&bg_color=1E1B2E&title_color=A78BFA&text_color=E9D5FF" width="48%"/>
 
 </div>
 
@@ -196,7 +196,7 @@ Descrição profissional da posição.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=[SEU_USUARIO]&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mickaellysilva&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -206,7 +206,7 @@ Descrição profissional da posição.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[SEU_USUARIO]&theme=react-dark&bg_color=1E1B2E&color=A78BFA&line=8B5CF6&point=E9D5FF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mickaellysilva&theme=react-dark&bg_color=1E1B2E&color=A78BFA&line=8B5CF6&point=E9D5FF&hide_border=true"/>
 
 </div>
 
@@ -216,7 +216,7 @@ Descrição profissional da posição.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/[SEU_USUARIO]/[SEU_USUARIO]/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Mickaellysilva/Mickaellysilva/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -251,7 +251,7 @@ open_to:
 
 [![Gmail](https://img.shields.io/badge/-mickaellycosta.dev-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:[SEU_EMAIL])
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white)]([SEU_LINK_LINKEDIN])
-[![GitHub](https://img.shields.io/badge/-GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white)]([SEU_LINK_GITHUB])
+[![GitHub](https://img.shields.io/badge/-GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/Mickaellysilva)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-A78BFA?style=flat-square&logo=vercel&logoColor=white)](https://mickaellysilva.github.io)
 
 </div>
