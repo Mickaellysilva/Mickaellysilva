@@ -27,7 +27,7 @@
 
 ---
 
-## 🜸 About
+## About
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/images/space_cat.gif" hidden/>
 
@@ -51,7 +51,7 @@ Estudante de Ciência da Computação em transição consciente para uma trilha 
 
 ---
 
-## 🜸 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Estudante de Ciência da Computação em transição consciente para uma trilha 
 
 ---
 
-## 🜸 Featured Projects
+## Featured Projects
 
 <details>
 <summary><b>🟣 Doce Ponto — Backend Case Study</b></summary>
@@ -117,7 +117,7 @@ Descrição do projeto aqui.
 
 ---
 
-## 🜸 Experience
+## Experience
 
 **Estágio** · **Poligás** · `2023`
 
@@ -180,7 +180,7 @@ Descrição profissional da posição.
 </div>
 
 ---
-
+<!-- ATUALIZAR EM DEZEMBRO
 ## 🜸 GitHub Trophies
 
 <div align="center">
@@ -190,7 +190,7 @@ Descrição profissional da posição.
 </div>
 
 ---
-
+-->
 ## 🜸 Contribution Activity
 
 <div align="center">
