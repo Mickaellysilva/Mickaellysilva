@@ -91,7 +91,7 @@ Aplicação backend desenvolvida como estudo de caso prático, com foco em prát
 
 | Stack | Scale | Performance | Security | Impact |
 |:-----:|:-----:|:-----------:|:--------:|:------:|
-| Java / SQL | Projeto individual | Em otimização | Boas práticas em construção | Case de portfólio|
+| Java / SQL | Projeto individual | Em otimização | Boas práticas em construção | Case de portólio |
 
 **Repositório:** `https://github.com/Mickaellysilva/Doce-Ponto`
 
