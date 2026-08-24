@@ -91,46 +91,48 @@ Aplicação backend desenvolvida como estudo de caso prático, com foco em prát
 
 | Stack | Scale | Performance | Security | Impact |
 |:-----:|:-----:|:-----------:|:--------:|:------:|
-| Java / SQL | Projeto individual | Em otimização | Boas práticas em construção | Case de portfólio para vagas backend |
+| Java / SQL | Projeto individual | Em otimização | Boas práticas em construção | Case de portfólio|
 
-**Repositório:** `[LINK_DO_REPOSITORIO]`
+**Repositório:** `https://github.com/Mickaellysilva/Doce-Ponto`
 
-Projeto usado como eixo prático de aprendizado — aplica conceitos de POO, persistência de dados e organização de código que estão sendo revisados em paralelo nos estudos de Java.
+Projeto usado como eixo prático de aprendizado — aplica conceitos de POO, persistência de dados e organização de código.
 
 </details>
 
 <details>
-<summary><b>🟣 [Nome do Próximo Projeto]</b></summary>
+<summary><b>🟣 Tria </b></summary>
 <br/>
 
 Descrição do projeto aqui.
 
 | Stack | Scale | Performance | Security | Impact |
 |:-----:|:-----:|:-----------:|:--------:|:------:|
-| — | — | — | — | — |
+| Laravel | SQ lite | Peojeto em Equipe| Em otimização| Case de portólio |
 
-**Repositório:** `[LINK_DO_REPOSITORIO]`
+**Repositório:** `https://github.com/Mickaellysilva/Sistema-de-Triagem`
 
 </details>
 
-> Novos projetos são adicionados conforme o plano de estudos backend avança.
+> Outros projetos estão em desenvolvimento.
 
 ---
 
 ## 🜸 Experience
 
-**[Cargo]** · **[Nome da Empresa]** · `[Período]`
+**Estágio** · **Poligás** · `2023`
 
 Descrição profissional da posição.
 
-- Escopo de trabalho — item 1
-- Escopo de trabalho — item 2
-- Escopo de trabalho — item 3
+- Desenvolvi o site institucional completo, aplicando design responsivo para desktop e dispositivos móveis.
+- Implementei integrações com redes sociais e canal de pedidos via WhatsApp, melhorando a comunicação com clientes.
+- Otimizei a estrutura de navegação e fluxo de interação, tornando o site mais acessível e intuitivo.
+- Contribuí para o fortalecimento da identidade digital da marca, aprimorando a visibilidade e o engajamento online.  
 
-`[Skill]` `[Skill]` `[Skill]`
+`Desenvolvimento no-code` `
 
 ---
 
+<!--  EM DEZEMBRO EU ATUALIZO.
 ## 🜸 Achievements
 
 <div align="center">
@@ -140,19 +142,20 @@ Descrição profissional da posição.
 | [Reconhecimento] | [Detalhes] |
 
 </div>
-
+-->
 ---
 
-## 🜸 Certifications
+## Certifications
 
-**AWS**
+**IBM**
 <br/>
-`[Badge/Certificação AWS]`
+`Introduction to Software Engineering`
 
-**Oracle**
+**Cisco Networking Academy**
 <br/>
-`[Java Fundamentals — em andamento]`
+`Javascript Essentials 1`
 
+<!-- ATUALIZAR EM DEZEMBRO.
 **NPTEL**
 <br/>
 `[Certificação NPTEL]`
@@ -160,23 +163,10 @@ Descrição profissional da posição.
 **Cisco**
 <br/>
 `[Certificação Cisco]`
-
+-->
 ---
 
-## 🜸 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B2E)]([LINK])
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-Profile-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B2E)]([LINK])
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E1B2E)]([LINK])
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-A78BFA?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1E1B2E)]([LINK])
-
-</div>
-
----
-
-## 🜸 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -226,15 +216,14 @@ Descrição profissional da posição.
 ```yaml
 learning:
   - Java fundamentals & advanced OOP (Oracle Java Fundamentals)
-  - Data Structures (fraca base — em reforço ativo)
-  - Software Engineering fundamentals (IBM, Coursera)
+  - Data Structures 
+  - Software Engineering fundamentals 
 
 building:
   - Doce Ponto (backend case study project)
 
 exploring:
-  - Web Accessibility & WCAG 2.2 guidelines
-  - Software Engineering research (potential first paper)
+  - Software Engineering research 
 
 open_to:
   - Junior Backend Engineer positions
@@ -244,14 +233,14 @@ open_to:
 
 ---
 
-## 🜸 Connect
+## Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-mickaellycosta.dev-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:[SEU_EMAIL])
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white)]([SEU_LINK_LINKEDIN])
+[![Gmail](https://img.shields.io/badge/-mickaellycosta.dev-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:[mickaellycosta.dev@gmail.com])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mickaellys/])
 [![GitHub](https://img.shields.io/badge/-GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/Mickaellysilva)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-A78BFA?style=flat-square&logo=vercel&logoColor=white)](https://mickaellysilva.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-A78BFA?style=flat-square&logo=vercel&logoColor=white)](https://mickaellysilva.github.io/portfolio/)
 
 </div>
 
