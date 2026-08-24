@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mickaellysilva.github.io-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B2E)](https://mickaellysilva.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B2E)]([SEU_LINK_LINKEDIN])
-[![Email](https://img.shields.io/badge/Email-mickaellycosta.dev-4C1D95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B2E)](mailto:[SEU_EMAIL])
+[![Portfolio](https://img.shields.io/badge/Portfolio-mickaellysilva.github.io-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B2E)](https://mickaellysilva.github.io/portfolio/ )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B2E)](https://www.linkedin.com/in/mickaellys/)
+[![Email](https://img.shields.io/badge/Email-mickaellycosta.dev-4C1D95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B2E)](mailto:mickaellycosta.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B2E)](https://github.com/Mickaellysilva)
 
 <br/>
@@ -39,7 +39,6 @@ academic: Computer Science @ IFCE Iguatu (6th semester)
 focus:
   - Backend Development (Java, SQL, Data Structures)
   - Software Engineering fundamentals & best practices
-  - Web accessibility (WCAG 2.2) — research interest
 current_project: "Doce Ponto" — backend case study application
 open_to:
   - Junior Backend Engineer roles
@@ -48,7 +47,7 @@ open_to:
   - Research collaboration (Software Engineering)
 ```
 
-Estudante de Ciência da Computação em transição consciente para uma trilha sólida em **Engenharia de Software Backend**, revisando fundamentos com profundidade — Java, POO, estruturas de dados e SQL — antes de buscar oportunidades júnior. Interesse crescente em **acessibilidade web (WCAG)** como linha de pesquisa e em aplicar rigor de engenharia a projetos reais.
+Estudante de Ciência da Computação em transição consciente para uma trilha sólida em **Engenharia de Software Backend**, revisando fundamentos com profundidade — Java, POO, estruturas de dados e SQL — antes de buscar oportunidades júnior.
 
 ---
 
