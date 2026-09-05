@@ -128,6 +128,16 @@ Projeto usado como eixo prático de aprendizado — aplica conceitos de POO, per
 
 ---
 
+<!-- ## Achievements — reservado para quando houver reconhecimentos reais a listar
+<div align="center">
+
+| Recognition | Details |
+|:-----------:|:-------:|
+| [Reconhecimento] | [Detalhes] |
+
+</div>
+-->
+
 ## Certifications
 
 **IBM**
@@ -154,6 +164,14 @@ Projeto usado como eixo prático de aprendizado — aplica conceitos de POO, per
 </div>
 
 ---
+
+<!-- ## GitHub Trophies — reservado, ativar quando quiser exibir marcos do perfil
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mickaellysilva&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+
+</div>
+-->
 
 ## Contribution Activity
 
