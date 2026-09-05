@@ -171,17 +171,8 @@ Projeto usado como eixo prático de aprendizado — aplica conceitos de POO, per
 <img src="https://github-profile-trophy.vercel.app/?username=Mickaellysilva&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8"/>
 
 </div>
--->
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mickaellysilva&theme=react-dark&bg_color=1E1B2E&color=A78BFA&line=8B5CF6&point=E9D5FF&hide_border=true"/>
-
-</div>
-
 ---
+-->
 
 ## Current Focus
 
