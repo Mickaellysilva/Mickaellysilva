@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mickaellysilva.github.io-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B2E)](https://mickaellysilva.github.io/portfolio/ )
+[![Portfolio](https://img.shields.io/badge/Portfolio-mickaellysilva.github.io-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B2E)](https://mickaellysilva.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B2E)](https://www.linkedin.com/in/mickaellys/)
 [![Email](https://img.shields.io/badge/Email-mickaellycosta.dev-4C1D95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B2E)](mailto:mickaellycosta.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B2E)](https://github.com/Mickaellysilva)
@@ -28,8 +28,6 @@
 ---
 
 ## About
-
-<img align="right" width="260" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/images/space_cat.gif" hidden/>
 
 ```yaml
 name: Mickaelly Costa
@@ -87,29 +85,29 @@ Estudante de Ciência da Computação em transição consciente para uma trilha 
 <summary><b>🟣 Doce Ponto — Backend Case Study</b></summary>
 <br/>
 
-Aplicação backend desenvolvida como estudo de caso prático, com foco em prática de estruturas de dados, modelagem e lógica de negócio para portfólio.
+Aplicação backend desenvolvida como estudo de caso prático, com foco em estruturas de dados, modelagem e lógica de negócio para portfólio.
 
 | Stack | Scale | Performance | Security | Impact |
 |:-----:|:-----:|:-----------:|:--------:|:------:|
-| Java / SQL | Projeto individual | Em otimização | Boas práticas em construção | Case de portólio |
+| Java / SQL | Projeto individual | Em otimização | Boas práticas em construção | Case de portfólio |
 
-**Repositório:** `https://github.com/Mickaellysilva/Doce-Ponto`
+**Repositório:** [Doce-Ponto](https://github.com/Mickaellysilva/Doce-Ponto)
 
 Projeto usado como eixo prático de aprendizado — aplica conceitos de POO, persistência de dados e organização de código.
 
 </details>
 
 <details>
-<summary><b>🟣 Tria </b></summary>
+<summary><b>🟣 Tria</b></summary>
 <br/>
 
-Descrição do projeto aqui.
+[COMPLETAR: descreva em 1-2 frases o que o Tria faz — ex: "Sistema de triagem desenvolvido em equipe para..."]
 
 | Stack | Scale | Performance | Security | Impact |
 |:-----:|:-----:|:-----------:|:--------:|:------:|
-| Laravel | SQ lite | Peojeto em Equipe| Em otimização| Case de portólio |
+| Laravel | SQLite | Projeto em equipe | Em otimização | Case de portfólio |
 
-**Repositório:** `https://github.com/Mickaellysilva/Sistema-de-Triagem`
+**Repositório:** [Sistema-de-Triagem](https://github.com/Mickaellysilva/Sistema-de-Triagem)
 
 </details>
 
@@ -121,28 +119,13 @@ Descrição do projeto aqui.
 
 **Estágio** · **Poligás** · `2023`
 
-Descrição profissional da posição.
-
 - Desenvolvi o site institucional completo, aplicando design responsivo para desktop e dispositivos móveis.
 - Implementei integrações com redes sociais e canal de pedidos via WhatsApp, melhorando a comunicação com clientes.
 - Otimizei a estrutura de navegação e fluxo de interação, tornando o site mais acessível e intuitivo.
-- Contribuí para o fortalecimento da identidade digital da marca, aprimorando a visibilidade e o engajamento online.  
+- Contribuí para o fortalecimento da identidade digital da marca, aprimorando a visibilidade e o engajamento online.
 
-`Desenvolvimento no-code` `
+`Desenvolvimento no-code`
 
----
-
-<!--  EM DEZEMBRO EU ATUALIZO.
-## 🜸 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:-----------:|:-------:|
-| [Reconhecimento] | [Detalhes] |
-
-</div>
--->
 ---
 
 ## Certifications
@@ -155,15 +138,6 @@ Descrição profissional da posição.
 <br/>
 `Javascript Essentials 1`
 
-<!-- ATUALIZAR EM DEZEMBRO.
-**NPTEL**
-<br/>
-`[Certificação NPTEL]`
-
-**Cisco**
-<br/>
-`[Certificação Cisco]`
--->
 ---
 
 ## GitHub Analytics
@@ -180,18 +154,8 @@ Descrição profissional da posição.
 </div>
 
 ---
-<!-- ATUALIZAR EM DEZEMBRO
-## 🜸 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mickaellysilva&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8"/>
-
-</div>
-
----
--->
-##  Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -201,7 +165,7 @@ Descrição profissional da posição.
 
 ---
 
-##  Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -216,14 +180,14 @@ Descrição profissional da posição.
 ```yaml
 learning:
   - Java fundamentals & advanced OOP (Oracle Java Fundamentals)
-  - Data Structures 
-  - Software Engineering fundamentals 
+  - Data Structures
+  - Software Engineering fundamentals
 
 building:
   - Doce Ponto (backend case study project)
 
 exploring:
-  - Software Engineering research 
+  - Software Engineering research
 
 open_to:
   - Junior Backend Engineer positions
@@ -237,8 +201,8 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-mickaellycosta.dev-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:[mickaellycosta.dev@gmail.com])
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mickaellys/])
+[![Gmail](https://img.shields.io/badge/-mickaellycosta.dev-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:mickaellycosta.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickaellys/)
 [![GitHub](https://img.shields.io/badge/-GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/Mickaellysilva)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-A78BFA?style=flat-square&logo=vercel&logoColor=white)](https://mickaellysilva.github.io/portfolio/)
 
