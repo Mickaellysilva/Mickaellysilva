@@ -165,16 +165,6 @@ Projeto usado como eixo prático de aprendizado — aplica conceitos de POO, per
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mickaellysilva/Mickaellysilva/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
