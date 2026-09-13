@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:4C1D95,100:6D28D9&height=220&section=header&text=Mickaelly%20Costa&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Software%20Engineering%20%7C%20AI-Aware%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer+in+the+making;Java+%7C+SQL+%7C+Data+Structures;Building+Doce+Ponto+%E2%80%94+a+real-world+backend+case;Turning+theory+into+production-grade+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Engenheira+de+Software+Backend+em+forma%C3%A7%C3%A3o;Java+%7C+SQL+%7C+Estruturas+de+Dados;Transformando+teoria+em+c%C3%B3digo+de+n%C3%ADvel+profissional" alt="Typing SVG" />
 
 <br/>
 
@@ -101,7 +101,7 @@ Projeto usado como eixo prático de aprendizado — aplica conceitos de POO, per
 <summary><b>🟣 Tria</b></summary>
 <br/>
 
-[COMPLETAR: descreva em 1-2 frases o que o Tria faz — ex: "Sistema de triagem desenvolvido em equipe para..."]
+Sistema de Triagem para posto de saúde, com definição de ordem de prioridade.
 
 | Stack | Scale | Performance | Security | Impact |
 |:-----:|:-----:|:-----------:|:--------:|:------:|
@@ -211,7 +211,7 @@ open_to:
 
 <div align="center">
 
-<i>Construindo bases sólidas em engenharia de software, um commit de cada vez.</i>
+<i>Construindo minha carreira tech</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:4C1D95,100:2E1065&height=120&section=footer"/>
 
