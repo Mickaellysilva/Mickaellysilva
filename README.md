@@ -31,18 +31,18 @@
 
 ```yaml
 name: Mickaelly Costa
-role: Backend-focused Software Engineering Student
-based_in: Ceará, Brazil
-academic: Computer Science @ IFCE Iguatu (6th semester)
+role: Estudante de Engenharia de Software com foco em Backend
+based_in: Ceará, Brasil
+academic: Ciência da Computação @ IFCE Iguatu (6º semestre)
 focus:
-  - Backend Development (Java, SQL, Data Structures)
-  - Software Engineering fundamentals & best practices
-current_project: "Doce Ponto" — backend case study application
+  - Desenvolvimento Backend (Java, SQL, Estruturas de Dados)
+  - Fundamentos de Engenharia de Software e boas práticas
+current_project: "Doce Ponto" — aplicação de estudo de caso para backend
 open_to:
-  - Junior Backend Engineer roles
-  - Software Engineering internships
-  - Remote opportunities
-  - Research collaboration (Software Engineering)
+  - Vagas para Desenvolvedora Backend Júnior
+  - Estágios em Engenharia de Software
+  - Oportunidades remotas
+  - Colaboração em pesquisa (Engenharia de Software e Inteligência Artificial)
 ```
 
 Estudante de Ciência da Computação em transição consciente para uma trilha sólida em **Engenharia de Software Backend**, revisando fundamentos com profundidade — Java, POO, estruturas de dados e SQL — antes de buscar oportunidades júnior.
