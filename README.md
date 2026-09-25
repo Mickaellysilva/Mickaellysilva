@@ -35,9 +35,6 @@ const mickaelly = {
 };
 </pre>
 
-<em>"A tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades."</em><br>
-— Mickaelly Silva
-
 </td>
 <td width="45%" valign="top">
   <img src="https://i.pinimg.com/1200x/b8/09/f1/b809f165a714ca2c7deb75cfddfdce57.jpg" width="100%" />
