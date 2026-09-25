@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b2e,100:9b5de5&height=160&section=header&text=Bem-vindo%20ao%20GitHub%20da%20Mickaelly%20%3C%2F%3E&fontSize=30&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render-theta.vercel.app/api?type=soft&color=0:1e1b2e,100:9b5de5&height=160&section=header&text=Bem-vindo%20ao%20GitHub%20da%20Mickaelly%20%3C%2F%3E&fontSize=30&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 ### Hi 👋, Imma Mickaelly
 
