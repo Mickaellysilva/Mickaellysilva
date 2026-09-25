@@ -62,24 +62,26 @@ const mickaelly = {
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mickaellysilva&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mickaellysilva&theme=radical" width="100%" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mickaellysilva&theme=github_dark" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mickaellysilva&theme=github_dark&utcOffset=-3" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mickaellysilva&theme=radical" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mickaellysilva&theme=radical&utcOffset=-3" height="200" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mickaellysilva&theme=github_dark" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mickaellysilva&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mickaellysilva&theme=radical" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mickaellysilva&theme=radical" height="200" />
 </p>
 
-## 🏆 GitHub Trophies
+## 📜 Certificações
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mickaellysilva&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
-</p>
+| Certificação | Instituição | Emitida em |
+|---|---|---|
+| Introduction to Software Engineering | IBM | jun de 2026 |
+| Desenvolvimento Full Stack | IEL Hub de Carreiras | mai de 2026 |
+| Google: Inteligência Artificial e Produtividade | Santander Open Academy | set de 2025 |
 
 ## 🚀 Projetos em Destaque
 
