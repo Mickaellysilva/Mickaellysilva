@@ -36,7 +36,9 @@ const mickaelly = {
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" valign="top" align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=800&color=9B5DE5&center=true&vCenter=true&width=420&height=160&lines=const+dev+%3D+%22Mickaelly%22%3B;while+(true)+%7B;++code();++learn();++repeat();%7D" alt="Terminal animado"/>
 
 > *"A tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades."*
 > — Mickaelly Silva
