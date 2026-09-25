@@ -1,28 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mickaelly Silva</h1>
-<h3 align="center">Estudante de Ciência da Computação | Futura Engenheira de Software</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=9B5DE5&center=true&vCenter=true&width=460&lines=Construindo+solu%C3%A7%C3%B5es+com+c%C3%B3digo+limpo;Aprendendo+Java+%2B+Engenharia+de+Software;Full+Stack+em+constru%C3%A7%C3%A3o+%F0%9F%9A%80" alt="typing" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mickaellysilva"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mickaellys/"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mickaellyy.s/"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
+<a href="https://github.com/Mickaellysilva">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5DE5,100:5D2E8C&height=200&section=header&text=MICKAELLY%20SILVA&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Futura%20Engenheira%20de%20Software&descAlignY=58&descAlign=50" width="100%" />
+</a>
 
 ## 👩‍💻 About Me
 
 <table>
 <tr>
-<td width="40%">
-  <img src="https://i.pinimg.com/1200x/b8/09/f1/b809f165a714ca2c7deb75cfddfdce57.jpg" width="100%" />
-</td>
-<td width="60%">
+<td width="55%" valign="top">
 
-```js
+\`\`\`js
 const mickaelly = {
   role: "Estudante de Ciência da Computação",
   location: "Várzea Alegre, CE 🇧🇷",
@@ -47,57 +33,49 @@ const mickaelly = {
     database: ["MySQL"]
   }
 };
-```
+\`\`\`
 
 > *"A tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades."*
 > — Mickaelly Silva
 
 </td>
+<td width="45%" valign="top">
+  <img src="https://i.pinimg.com/1200x/b8/09/f1/b809f165a714ca2c7deb75cfddfdce57.jpg" width="100%" />
+</td>
 </tr>
 </table>
 
----
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mickaellys/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mickaellyy.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Mickaellysilva"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,php,mysql,html,css,bootstrap,git,github,vscode" />
 </p>
-
----
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mickaellysilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mickaellysilva&theme=tokyonight&hide_border=true" width="49%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mickaellysilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mickaellysilva&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickaellysilva&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mickaellysilva&theme=tokyo-night&hide_border=true" width="49%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickaellysilva&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mickaellysilva&theme=tokyo-night&hide_border=true" height="165" />
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Mickaellysilva&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </p>
-
----
 
 ## 🚀 Projetos em Destaque
 
@@ -108,12 +86,8 @@ const mickaelly = {
 | 📌 [Sistema de Controle de Vacinação](https://github.com/Mickaellysilva/SistemaDeControleDeVacinacao) | Aplicação orientada a objetos para gerenciar cadastro, aplicações e esquema vacinal. |
 | 📌 [Mini Projeto Biblioteca](https://github.com/Mickaellysilva/Mini-projeto-Biblioteca) | Aplicação orientada a objetos para gerenciar os livros de uma biblioteca. |
 
----
-
 ## 🐍 Histórico de Contribuições
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mickaellysilva/Mickaellysilva/output/snake.svg" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Mickaellysilva/Mickaellysilva/output/snake.svg" width="100%" />
 </p>
-
-<p align="center">Feito com 💜 por Mickaelly Silva</p>
