@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<td width="" valign="top">
+<td width="55%" valign="top">
 
 <pre>
 const mickaelly = {
@@ -34,9 +34,6 @@ const mickaelly = {
   }
 };
 </pre>
-
-<em>"A tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades."</em><br>
-— Mickaelly Silva
 
 </td>
 <td width="45%" valign="top">
