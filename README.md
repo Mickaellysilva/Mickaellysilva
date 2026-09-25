@@ -35,6 +35,9 @@ const mickaelly = {
 };
 </pre>
 
+<em>"A tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades."</em><br>
+— Mickaelly Silva
+
 </td>
 <td width="45%" valign="top">
   <img src="https://i.pinimg.com/1200x/b8/09/f1/b809f165a714ca2c7deb75cfddfdce57.jpg" width="100%" />
@@ -59,13 +62,17 @@ const mickaelly = {
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mickaellysilva&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mickaellysilva&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mickaellysilva&theme=github_dark" width="100%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickaellysilva&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mickaellysilva&theme=tokyo-night&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mickaellysilva&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mickaellysilva&theme=github_dark&utcOffset=-3" height="200" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mickaellysilva&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mickaellysilva&theme=github_dark" height="200" />
 </p>
 
 ## 🏆 GitHub Trophies
