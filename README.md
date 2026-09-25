@@ -16,6 +16,25 @@
 
 </div>
 
+## 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="30%" align="center">
+
+<img src="https://i.pinimg.com/1200x/b8/09/f1/b809f165a714ca2c7deb75cfddfdce57.jpg" width="180" style="border-radius:50%"/>
+
+</td>
+<td width="70%" valign="middle">
+
+Olá! Meu nome é **Mickaelly Silva**, sou estudante de **Ciência da Computação** e futura **Engenheira de Software**. Sou apaixonada por aprender novas tecnologias, desenvolver projetos inovadores e resolver problemas através da programação. Atualmente estou aprimorando minhas habilidades em **Java, React, Node.js e Engenharia de Software**, focada em construir aplicações robustas e continuar crescendo na área de tecnologia.
+
+Meu objetivo é simples: escrever código limpo, construir software confiável e evoluir como engenheira de software que cria sistemas que duram.
+
+</td>
+</tr>
+</table>
+
 ## 🧰 Technologies
 
 <p align="center">
@@ -52,25 +71,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mickaellysilva&theme=github_dark" width="45%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mickaellysilva&theme=github_dark" width="45%"/>
 </p>
-
-## 👩‍💻 About Me
-
-<table>
-<tr>
-<td width="30%" align="center">
-
-<img src="https://i.pinimg.com/1200x/b8/09/f1/b809f165a714ca2c7deb75cfddfdce57.jpg" width="180" style="border-radius:50%"/>
-
-</td>
-<td width="70%" valign="middle">
-
-Olá! Meu nome é **Mickaelly Silva**, sou estudante de **Ciência da Computação** e futura **Engenheira de Software**. Sou apaixonada por aprender novas tecnologias, desenvolver projetos inovadores e resolver problemas através da programação. Atualmente estou aprimorando minhas habilidades em **Java, React, Node.js e Engenharia de Software**, focada em construir aplicações robustas e continuar crescendo na área de tecnologia.
-
-Meu objetivo é simples: escrever código limpo, construir software confiável e evoluir como engenheira de software que cria sistemas que duram.
-
-</td>
-</tr>
-</table>
 
 ## 🎯 Hobbies & Goals
 
