@@ -2,9 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b2e,100:9b5de5&height=160&section=header&text=Welcome%20to%20Mickaelly's%20GitHub%20%3C%2F%3E&fontSize=32&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
+### Hi 👋, Imma Mickaelly
+
+**Estudante de Ciência da Computação**
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=9B5DE5&center=true&vCenter=true&width=460&lines=Construindo+solu%C3%A7%C3%B5es+com+c%C3%B3digo+limpo;Aprendendo+Java+e+Engenharia+de+Software;Full+Stack+em+constru%C3%A7%C3%A3o" alt="typing"/>
+
 <p>
-  <a href="https://www.linkedin.com/in/mickaellys/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mickaellyy.s/"><img src="https://img.shields.io/badge/INSTAGRAM-9b5de5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/Mickaellysilva"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mickaellys/"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mickaellyy.s/"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 </div>
@@ -29,7 +36,13 @@
   <img src="https://img.shields.io/badge/C-9b5de5?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-## 📈 Statistics
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mickaellysilva&theme=dark&background=1e1b2eff&ring=9b5de5&fire=9b5de5&currStreakLabel=9b5de5&hide_border=true" width="90%"/>
+</p>
+
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mickaellysilva&theme=react-dark&hide_border=true&color=9b5de5&line=9b5de5&point=ffffff&area=true&area_color=9b5de5" width="100%"/>
@@ -53,6 +66,8 @@
 
 Olá! Meu nome é **Mickaelly Silva**, sou estudante de **Ciência da Computação** e futura **Engenheira de Software**. Sou apaixonada por aprender novas tecnologias, desenvolver projetos inovadores e resolver problemas através da programação. Atualmente estou aprimorando minhas habilidades em **Java, React, Node.js e Engenharia de Software**, focada em construir aplicações robustas e continuar crescendo na área de tecnologia.
 
+Meu objetivo é simples: escrever código limpo, construir software confiável e evoluir como engenheira de software que cria sistemas que duram.
+
 </td>
 </tr>
 </table>
@@ -60,7 +75,7 @@ Olá! Meu nome é **Mickaelly Silva**, sou estudante de **Ciência da Computaç�
 ## 🎯 Hobbies & Goals
 
 <p align="center">
-  Estudante de Ciência da Computação<br/>
+  Estudante de Ciência da Computação em Várzea Alegre, CE<br/>
   <i>"A tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades."</i> — Mickaelly Silva
 </p>
 
