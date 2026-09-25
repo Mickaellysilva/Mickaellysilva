@@ -8,7 +8,7 @@
 <tr>
 <td width="55%" valign="top">
 
-\`\`\`js
+<pre>
 const mickaelly = {
   role: "Estudante de Ciência da Computação",
   location: "Várzea Alegre, CE 🇧🇷",
@@ -33,10 +33,10 @@ const mickaelly = {
     database: ["MySQL"]
   }
 };
-\`\`\`
+</pre>
 
-> *"A tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades."*
-> — Mickaelly Silva
+<em>"A tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades."</em><br>
+— Mickaelly Silva
 
 </td>
 <td width="45%" valign="top">
@@ -62,7 +62,7 @@ const mickaelly = {
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mickaellysilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mickaellysilva&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mickaellysilva&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
