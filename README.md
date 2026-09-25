@@ -77,20 +77,16 @@ const mickaelly = {
 
 ## 📜 Certificações
 
-| Certificação | Instituição | Emitida em |
-|---|---|---|
-| Introduction to Software Engineering | IBM | jun de 2026 |
-| Desenvolvimento Full Stack | IEL Hub de Carreiras | mai de 2026 |
-| Google: Inteligência Artificial e Produtividade | Santander Open Academy | set de 2025 |
+- 🎓 **Introduction to Software Engineering** — IBM (jun de 2026)
+- 🎓 **Desenvolvimento Full Stack** — IEL Hub de Carreiras (mai de 2026)
+- 🎓 **Google: Inteligência Artificial e Produtividade** — Santander Open Academy (set de 2025)
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição |
-|---|---|
-| 📌 [Sistema de Triagem](https://github.com/Mickaellysilva/Sistema-de-Triagem) | Sistema voltado para o processo de triagem, organizando o atendimento de forma prática e eficiente. |
-| 📌 [Digital Store Backend](https://github.com/Mickaellysilva/Projeto-Digital-Store-Backend) | API REST para uma loja virtual, feita em Node.js com Express, Sequelize (MySQL) e autenticação JWT. |
-| 📌 [Sistema de Controle de Vacinação](https://github.com/Mickaellysilva/SistemaDeControleDeVacinacao) | Aplicação orientada a objetos para gerenciar cadastro, aplicações e esquema vacinal. |
-| 📌 [Mini Projeto Biblioteca](https://github.com/Mickaellysilva/Mini-projeto-Biblioteca) | Aplicação orientada a objetos para gerenciar os livros de uma biblioteca. |
+- 📌 **[Sistema de Triagem](https://github.com/Mickaellysilva/Sistema-de-Triagem)** — Sistema voltado para o processo de triagem, organizando o atendimento de forma prática e eficiente.
+- 📌 **[Digital Store Backend](https://github.com/Mickaellysilva/Projeto-Digital-Store-Backend)** — API REST para uma loja virtual, feita em Node.js com Express, Sequelize (MySQL) e autenticação JWT.
+- 📌 **[Sistema de Controle de Vacinação](https://github.com/Mickaellysilva/SistemaDeControleDeVacinacao)** — Aplicação orientada a objetos para gerenciar cadastro, aplicações e esquema vacinal.
+- 📌 **[Mini Projeto Biblioteca](https://github.com/Mickaellysilva/Mini-projeto-Biblioteca)** — Aplicação orientada a objetos para gerenciar os livros de uma biblioteca.
 
 ## 🐍 Histórico de Contribuições
 
