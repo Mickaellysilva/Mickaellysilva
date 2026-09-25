@@ -46,7 +46,7 @@
 <tr>
 <td width="30%" align="center">
 
-<img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Mickaelly&backgroundColor=1e1b2e&hairColor=2c1b18&skinColor=edb98a" width="180"/>
+<img src="https://i.pinimg.com/1200x/b8/09/f1/b809f165a714ca2c7deb75cfddfdce57.jpg" width="180" style="border-radius:50%"/>
 
 </td>
 <td width="70%" valign="middle">
