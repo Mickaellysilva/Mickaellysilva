@@ -1,100 +1,87 @@
-<h1 align="center">Olá, eu sou a Mickaelly 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/d4/99/3b/d4993b11af1f6b6968b1d56d3995a48b.jpg" width="150" style="border-radius:50%" alt="Foto de Mickaelly"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b2e,100:9b5de5&height=180&section=header&text=MICKAELLY%20SILVA&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20|%20Engenheira%20de%20Software%20|%20Java&descAlignY=60&descSize=16" width="100%"/>
 
-<h3 align="center">🎓 Estudante de Ciência da Computação • 💻 Desenvolvimento Web & Engenharia de Software</h3>
+</div>
 
-<p align="center">
-  <code>⚙️ Atualmente aprofundando conhecimentos em Java e Engenharia de Software</code>
-</p>
-
-<p align="center">
-  ⚡ <i>Acredito que a tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mickaellysilva&color=9b5de5&style=flat-square" alt="Contador de Visitas"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mickaellys/"><img src="https://img.shields.io/badge/LinkedIn-9b5de5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mickaellyy.s/"><img src="https://img.shields.io/badge/Instagram-9b5de5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-232727?style=for-the-badge&logo=html5&logoColor=9b5de5"/>
-  <img src="https://img.shields.io/badge/CSS3-232727?style=for-the-badge&logo=css3&logoColor=9b5de5"/>
-  <img src="https://img.shields.io/badge/JavaScript-232727?style=for-the-badge&logo=javascript&logoColor=9b5de5"/>
-  <img src="https://img.shields.io/badge/Bootstrap-232727?style=for-the-badge&logo=bootstrap&logoColor=9b5de5"/>
-  <img src="https://img.shields.io/badge/React-232727?style=for-the-badge&logo=react&logoColor=9b5de5"/>
-  <img src="https://img.shields.io/badge/Node.js-232727?style=for-the-badge&logo=node.js&logoColor=9b5de5"/>
-  <img src="https://img.shields.io/badge/PHP-232727?style=for-the-badge&logo=php&logoColor=9b5de5"/>
-  <img src="https://img.shields.io/badge/Java-232727?style=for-the-badge&logo=openjdk&logoColor=9b5de5"/>
-  <img src="https://img.shields.io/badge/Python-232727?style=for-the-badge&logo=python&logoColor=9b5de5"/>
-  <img src="https://img.shields.io/badge/C-232727?style=for-the-badge&logo=c&logoColor=9b5de5"/>
-  <img src="https://img.shields.io/badge/MySQL-232727?style=for-the-badge&logo=mysql&logoColor=9b5de5"/>
-  <img src="https://img.shields.io/badge/Git-232727?style=for-the-badge&logo=git&logoColor=9b5de5"/>
-</p>
-
----
-
-### 📊 Meu Desempenho no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mickaellysilva&show_icons=true&theme=gotham&icon_color=9b5de5&text_color=ffffff&title_color=9b5de5&border_radius=10" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mickaellysilva&layout=compact&theme=gotham&icon_color=9b5de5&text_color=ffffff&title_color=9b5de5&border_radius=10" alt="Linguagens mais usadas" height="165"/>
-</p>
-
----
-
-### 🚀 Projetos em Destaque
+### 📌 About Me
 
 <table>
-  <tr>
-    <td width="50%">
-      <h4>📌 Sistema de Triagem</h4>
-      <p>Sistema voltado para o processo de triagem, organizando o atendimento de forma prática e eficiente.</p>
-      <a href="https://github.com/Mickaellysilva/Sistema-de-Triagem">Acessar Repositório ↗</a>
-    </td>
-    <td width="50%">
-      <h4>📌 Digital Store Backend</h4>
-      <p>API REST para uma loja virtual, feita em Node.js com Express, Sequelize (MySQL) e autenticação JWT. Inclui CRUD completo de usuários, produtos e categorias.</p>
-      <a href="https://github.com/Mickaellysilva/Projeto-Digital-Store-Backend">Acessar Repositório ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📌 Sistema de Controle de Vacinação</h4>
-      <p>Aplicação orientada a objetos para gerenciar todo o processo de vacinação: cadastro de pessoas, registro das aplicações e acompanhamento do esquema vacinal.</p>
-      <a href="https://github.com/Mickaellysilva/SistemaDeControleDeVacinacao">Acessar Repositório ↗</a>
-    </td>
-    <td width="50%">
-      <h4>📌 Mini Projeto Biblioteca</h4>
-      <p>Aplicação orientada a objetos para gerenciar os livros de uma biblioteca.</p>
-      <a href="https://github.com/Mickaellysilva/Mini-projeto-Biblioteca">Acessar Repositório ↗</a>
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="top">
+
+```js
+const mickaelly = {
+  role: "Estudante de Ciência da Computação",
+  location: "Várzea Alegre, CE 🇧🇷",
+
+  building: [
+    "Projetos Full Stack",
+    "Sistemas orientados a objetos"
+  ],
+
+  learning: [
+    "Java",
+    "Engenharia de Software",
+    "Estruturas de Dados"
+  ],
+
+  tech: {
+    frontend: ["React", "HTML", "CSS", "Bootstrap"],
+    backend: ["Node.js", "Express", "PHP"],
+    languages: ["Java", "JavaScript", "Python", "C"],
+    database: ["MySQL"]
+  }
+};
+```
+
+</td>
+<td width="45%" valign="top">
+
+> *"A tecnologia vai muito além das linhas de código: é uma ferramenta poderosa para conectar pessoas e transformar realidades."*
+> — Mickaelly Silva
+
+</td>
+</tr>
 </table>
 
----
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mickaellys/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mickaellyy.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,php,java,python,c,mysql,git,github&theme=dark" />
+</p>
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mickaellysilva&theme=github_dark" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mickaellysilva&theme=github_dark" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mickaellysilva&theme=github_dark" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mickaellysilva&theme=github_dark" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mickaellysilva&theme=github_dark&utcOffset=-3" width="45%"/>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mickaellysilva&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
+</p>
 
 ### 🐍 Histórico de Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mickaellysilva/Mickaellysilva/output/snake.svg" alt="Snake das contribuições"/>
-</p>
-
----
-
-<h3 align="center">🔗 Vamos nos conectar?</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mickaellys/"><img src="https://img.shields.io/badge/LinkedIn-9b5de5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mickaellyy.s/"><img src="https://img.shields.io/badge/Instagram-9b5de5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
