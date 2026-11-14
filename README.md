@@ -1,14 +1,16 @@
 <div align="center">
 
-<a href="https://github.com/Mickaellysilva">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=200&section=header&text=MICKAELLY%20SILVA&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Futura%20Engenheira%20de%20Software&descAlignY=58&descAlign=50" width="100%" />
-</a>
+<img src="https://i.pinimg.com/736x/98/11/7d/98117d6761d558e97988e4f81c7ac877.jpg" width="480" />
 
 <h1>Oi 👋, eu sou a Mickaelly Silva</h1>
 
 <h3>Estudante de Ciência da Computação</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+%E2%80%A2+Java+%E2%80%A2+SQL+%E2%80%A2+Python;Dados+e+IA+aplicada;Um+projeto+de+cada+vez" alt="Typing SVG" />
+
+<p><i>Construindo sistemas backend confiáveis, com código limpo e foco em resolver problemas reais.</i></p>
+
+</div>
 
 <p><i>Construindo sistemas backend confiáveis, com código limpo e foco em resolver problemas reais.</i></p>
 
