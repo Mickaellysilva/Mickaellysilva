@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://github.com/Mickaellysilva">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5DE5,100:5D2E8C&height=200&section=header&text=MICKAELLY%20SILVA&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Futura%20Engenheira%20de%20Software&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=200&section=header&text=MICKAELLY%20SILVA&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Futura%20Engenheira%20de%20Software&descAlignY=58&descAlign=50" width="100%" />
 </a>
 
 <h1>Oi 👋, eu sou a Mickaelly Silva</h1>
 
 <h3>Estudante de Ciência da Computação</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Backend+%E2%80%A2+Java+%E2%80%A2+SQL+%E2%80%A2+Python;Dados+e+IA+aplicada;Um+projeto+de+cada+vez" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+%E2%80%A2+Java+%E2%80%A2+SQL+%E2%80%A2+Python;Dados+e+IA+aplicada;Um+projeto+de+cada+vez" alt="Typing SVG" />
 
 <p><i>Construindo sistemas backend confiáveis, com código limpo e foco em resolver problemas reais.</i></p>
 
@@ -16,9 +16,7 @@
 
 <h2 align="center">🚀 Sobre mim</h2>
 
-<table>
-<tr>
-<td width="60%" valign="middle">
+<img align="right" src="https://i.pinimg.com/1200x/b8/09/f1/b809f165a714ca2c7deb75cfddfdce57.jpg" width="320" />
 
 <p><b>Mickaelly Silva</b>, acadêmica de Ciência da Computação no IFCE (6º semestre), construindo minha trajetória rumo à Engenharia de Software com foco em backend.</p>
 
@@ -28,19 +26,14 @@
 
 <p>Meu objetivo: um estágio remoto em backend, aprendendo em produção, um projeto de cada vez.</p>
 
-</td>
-<td width="40%" align="center" valign="middle">
-  <img src="https://i.pinimg.com/1200x/b8/09/f1/b809f165a714ca2c7deb75cfddfdce57.jpg" width="100%" />
-</td>
-</tr>
-</table>
+<br clear="right" />
 
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mickaellys/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mickaellyy.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/Mickaellysilva"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mickaellys/"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mickaellyy.s/"><img src="https://img.shields.io/badge/Instagram-21262D?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Mickaellysilva"><img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -52,23 +45,23 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mickaellysilva&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mickaellysilva&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mickaellysilva&theme=radical" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mickaellysilva&theme=radical&utcOffset=-3" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mickaellysilva&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mickaellysilva&theme=github_dark&utcOffset=-3" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mickaellysilva&theme=radical" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mickaellysilva&theme=radical" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mickaellysilva&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mickaellysilva&theme=github_dark" height="200" />
 </p>
 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mickaellysilva&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mickaellysilva&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" width="100%" />
 </p>
 
 <h2 align="center">🎓 Certificações</h2>
