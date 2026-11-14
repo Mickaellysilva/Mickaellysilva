@@ -26,7 +26,7 @@
 
 <br clear="right" />
 
-<h2 align="center">🤝 Connect</h2>
+<h2 align="center">🤝 Conecte-se </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mickaellys/"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -34,7 +34,7 @@
   <a href="https://github.com/Mickaellysilva"><img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tecnologias </h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,php,laravel,mysql,html,css,bootstrap,git,github,vscode" />
