@@ -12,25 +12,27 @@
 const mickaelly = {
   role: "Estudante de Ciência da Computação",
   location: "Várzea Alegre, CE 🇧🇷",
+  focus: "Backend • Dados e IA aplicada",
 
   building: [
-    "Sistema de Triagem",
     "Digital Store Backend (API REST)",
+    "TinTrack (Java + JavaFX + JUnit 5)",
+    "Sistema de Triagem Hospitalar",
     "Sistema de Controle de Vacinação"
   ],
 
   learning: [
-    "Java",
-    "React",
-    "Node.js",
+    "Python",
+    "Análise de dados",
+    "IA aplicada",
     "Engenharia de Software"
   ],
 
   tech: {
     frontend: ["React", "HTML5", "CSS3", "Bootstrap"],
-    backend: ["Node.js", "Express", "PHP"],
-    languages: ["Java", "JavaScript", "PHP"],
-    database: ["MySQL"]
+    backend: ["Node.js", "Express", "Laravel", "PHP"],
+    languages: ["Java", "Python", "JavaScript", "PHP"],
+    database: ["SQL", "MySQL"]
   }
 };
 </pre>
@@ -53,7 +55,7 @@ const mickaelly = {
 ##  Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,php,mysql,html,css,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,php,laravel,mysql,html,css,bootstrap,git,github,vscode" />
 </p>
 
 ##  GitHub Analytics
@@ -82,6 +84,7 @@ const mickaelly = {
 
 - 📌 **[Sistema de Triagem](https://github.com/Mickaellysilva/Sistema-de-Triagem)** — Sistema voltado para o processo de triagem, organizando o atendimento de forma prática e eficiente.
 - 📌 **[Digital Store Backend](https://github.com/Mickaellysilva/Projeto-Digital-Store-Backend)** — API REST para uma loja virtual, feita em Node.js com Express, Sequelize (MySQL) e autenticação JWT.
+- 📌 **[TinTrack](LINK_DO_REPOSITORIO)** — Aplicação desktop em Java com JavaFX e testes automatizados em JUnit 5.
 - 📌 **[Sistema de Controle de Vacinação](https://github.com/Mickaellysilva/SistemaDeControleDeVacinacao)** — Aplicação orientada a objetos para gerenciar cadastro, aplicações e esquema vacinal.
 - 📌 **[Mini Projeto Biblioteca](https://github.com/Mickaellysilva/Mini-projeto-Biblioteca)** — Aplicação orientada a objetos para gerenciar os livros de uma biblioteca.
 
