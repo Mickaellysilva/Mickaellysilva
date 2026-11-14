@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/67/d5/7b/67d57bdfcfa5c34de89dd9e16c779a47.jpg" width="480" />
+<img src="https://i.pinimg.com/736x/93/e7/55/93e75560ea51cc2537607cf67cabae74.jpg" width="480" />
 
 <h1>Oi 👋, eu sou a Mickaelly Silva</h1>
 
