@@ -56,12 +56,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mickaellysilva&theme=github_dark" height="200" />
 </p>
 
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mickaellysilva&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" width="100%" />
-</p>
-
 <h2 align="center">🎓 Certificações</h2>
 
 - 🎓 **Introduction to Software Engineering** — IBM (jun de 2026)
