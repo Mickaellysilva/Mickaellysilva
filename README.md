@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/98/11/7d/98117d6761d558e97988e4f81c7ac877.jpg" width="480" />
+<img src="https://i.pinimg.com/1200x/67/d5/7b/67d57bdfcfa5c34de89dd9e16c779a47.jpg" width="480" />
 
 <h1>Oi 👋, eu sou a Mickaelly Silva</h1>
 
 <h3>Estudante de Ciência da Computação</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+%E2%80%A2+Java+%E2%80%A2+SQL+%E2%80%A2+Python;Dados+e+IA+aplicada;Um+projeto+de+cada+vez" alt="Typing SVG" />
-
-<p><i>Construindo sistemas backend confiáveis, com código limpo e foco em resolver problemas reais.</i></p>
-
-</div>
 
 <p><i>Construindo sistemas backend confiáveis, com código limpo e foco em resolver problemas reais.</i></p>
 
