@@ -37,7 +37,7 @@
 <h2 align="center">💻 Tecnologias </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,php,laravel,mysql,html,css,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,php,laravel,mysql,html,css,bootstrap,git,github,vscode" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -66,7 +66,7 @@
 
 - 📌 **[Sistema de Triagem](https://github.com/Mickaellysilva/Sistema-de-Triagem)** — Sistema voltado para o processo de triagem, organizando o atendimento de forma prática e eficiente.
 - 📌 **[Digital Store Backend](https://github.com/Mickaellysilva/Projeto-Digital-Store-Backend)** — API REST para uma loja virtual, feita em Node.js com Express, Sequelize (MySQL) e autenticação JWT.
-- 📌 **[TinTrack](LINK_DO_REPOSITORIO)** — Aplicação desktop em Java com JavaFX e testes automatizados em JUnit 5.
+- 📌 **[TinTrack](https://github.com/Mickaellysilva/fintrack-api)** — Aplicação desktop em Java com JavaFX e testes automatizados em JUnit 5.
 - 📌 **[Sistema de Controle de Vacinação](https://github.com/Mickaellysilva/SistemaDeControleDeVacinacao)** — Aplicação orientada a objetos para gerenciar cadastro, aplicações e esquema vacinal.
 - 📌 **[Mini Projeto Biblioteca](https://github.com/Mickaellysilva/Mini-projeto-Biblioteca)** — Aplicação orientada a objetos para gerenciar os livros de uma biblioteca.
 
